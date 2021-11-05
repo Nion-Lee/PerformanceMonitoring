@@ -1,5 +1,5 @@
 # PerformanceMonitoring
-WorkerService為伺服器端程式  
+WorkerService為伺服器端程式--  
 其以Worker服務實作，裏頭分別內建兩個服務「監測當前機器效能」與「Socket伺服器」  
   
 效能監測服務：能檢測每秒當前CPU、RAM、Disk使用量，讀寫請求數與當前進程數量  
